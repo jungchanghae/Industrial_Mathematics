@@ -5,4 +5,3 @@
 -------
 발표 자료 : project_fin6.pdf  
 모델 구현 코드 : codes  
-모델 관련 논문 : reference  
